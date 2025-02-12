@@ -30,7 +30,7 @@
 
 ## 📫 聯絡我 | Contact Me
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albert@mail.jw-albert.tw)
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albert@mail.jw-albert.tw) **albert@mail.jw-albert.tw**
 
 ---
 
