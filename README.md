@@ -10,6 +10,10 @@
 - 🛠 **擁有豐富的 C、C++、Python、Java、HTML、JavaScript、CSS 開發經驗** | **Experienced in C, C++, Python, Java, HTML, JavaScript, and CSS**
 - 🌐 **熟悉資料庫管理系統，如 MariaDB 和 MySQL** | **Familiar with database systems such as MariaDB and MySQL**
 
+## 💼 工作經驗 | Work Experience
+
+- 🏢 **機智雲股份有限公司 imCloud 後端系統工程師 (2024/10 ~ )** | **Backend System Engineer at imCloud Co., Ltd. (2024/10 ~ )**
+
 ## 🛠 技術棧 | Tech Stack
 
 ### 語言 | Programming Languages
