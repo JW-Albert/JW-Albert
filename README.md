@@ -4,7 +4,7 @@
 
 ## 🚀 關於我 | About Me
 
-- 🎓 **逢甲大學資訊工程學生** | **CS Student at Feng Chia University**
+- 🎓 **逢甲大學資訊工程學生** | **Information Engineering and Computer Science Student at Feng Chia University**
 - 💻 **熱衷於軟體開發、資料庫管理和全端開發** | **Passionate about Software Development, Database Management, and Full-stack Development**
 - 🌱 **目前正在學習 Go 語言、JavaScript 和雲端技術** | **Currently learning Go, JavaScript, and Cloud Technologies**
 - 🛠 **擁有豐富的 C、C++、Python、Java、HTML、JavaScript、CSS 開發經驗** | **Experienced in C, C++, Python, Java, HTML, JavaScript, and CSS**
