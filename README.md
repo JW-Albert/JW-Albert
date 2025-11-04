@@ -1,4 +1,4 @@
-# Albert Wang | 王柏豪
+# Albert Wang | 王建葦
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JW-Albert&color=blue)
 
