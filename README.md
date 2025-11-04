@@ -1,49 +1,79 @@
-# 你好！我是 Albert Wang 👋 | Hi! I'm Albert Wang 👋
+# Albert Wang | 王柏豪
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JW-Albert&color=blue)
 
-## 🚀 關於我 | About Me
+## About Me | 關於我
 
-- 🎓 逢甲大學資訊工程學系學生 | Information Engineering and Computer Science Student at Feng Chia University
-- 💻 熱衷軟體開發、伺服器管理及前後端開發 | Passionate about Software Development, Server Management, and Full-stack Development
-- 🌱 目前正在學習 Jetson Orin Nano 與 AI | Currently learning Jetson Orin Nano and AI Development
-- 🛠 具備豐富的 C、C++、Python、Java、HTML、JavaScript、CSS、SQL 開發經驗 | Experienced in C, C++, Python, Java, HTML, JavaScript, CSS, and SQL Development
-- 🌐 熟悉資料庫系統 (MariaDB, MySQL) | Proficient in Database Systems (MariaDB, MySQL)
-- ⚙️ 具有感測器套件撰寫經驗 (NiDAQ 使用 Python、C++ 開發) | Experience in Sensor Package Development (NiDAQ with Python, C++)
-- 🤝 團隊協作與 Edge Computing 開發經驗 | Experienced in Team Collaboration and Edge Computing Development
-- ☁️ AWS Greengrass、EC2、S3 使用經驗 | Experience with AWS Services (Greengrass, EC2, S3)
-- 🔗 Cloudflare 基礎運用、WARP、內網穿透與 Tunnel 建立經驗 | Experience with Cloudflare (WARP, Network Penetration, and Tunnel Setup)
-- 📡 業餘無線電愛好者，擁有 Motorola P8668i 與 P6620 使用經驗 | Amateur Radio Enthusiast with Experience in Motorola P8668i and P6620
-- 🚀 曾參與校內外各種開發專案，包括異常消費偵測及網站平台開發 | Participated in Various Development Projects, Including Anomaly Detection and Web Platform Development
-- 📸 愛好攝影，目標是能買下 SONY A7CII | Photography Enthusiast, Aiming to Purchase SONY A7CII
-- 🔒 具備資訊安全基礎知識，熟悉常見網路安全防護措施 | Basic Knowledge of Information Security and Common Network Security Measures
-- 📊 熟悉 Git 版本控制與 CI/CD 流程，具備敏捷開發經驗 | Proficient in Git Version Control, CI/CD Processes, and Agile Development
-- 🎯 專注於系統架構設計與效能優化，追求程式碼品質與可維護性 | Focused on System Architecture Design, Performance Optimization, and Code Quality
+I am an Information Engineering and Computer Science student at Feng Chia University, passionate about software development, server management, and full-stack development.
+我是一名就讀於逢甲大學資訊工程學系的學生，專注於軟體開發、伺服器管理及全端開發。
 
-## 💼 工作經驗 | Work Experience
+### Professional Experience | 專業經驗
 
-- 🏢 機智雲股份有限公司 imCloud 後端系統工程師 (2024/10 ~ ) | Backend System Engineer at imCloud Co., Ltd. (2024/10 ~ )
+**Backend System Engineer | 後端系統工程師**  
+*imCloud Co., Ltd. (FCU Intelligent Machines and Systems Laboratory) | 機智雲股份有限公司 (逢甲大學智慧機械與系統實驗室)*  
+October 2024 - December 2025 | 2024 年 10 月 - 2025 年 12 月
 
-## 🛠 技術棧 | Tech Stack
+- Developed and implemented Prognostic and Health Management (PHM) systems for predictive maintenance | 開發並實施故障預測與健康管理（PHM）系統，用於預測性維護
+- Built fault prediction models and health monitoring solutions for industrial equipment | 建立故障預測模型與工業設備健康監控解決方案
 
-### 語言 | Programming Languages
+### Technical Skills | 技術專長
 
+**Programming Languages | 程式語言**  
 C, C++, Python, Java, Go, HTML, JavaScript, CSS, SQL
 
-### 資料庫 | Databases
-
+**Database Systems | 資料庫系統**  
 MariaDB, MySQL
 
-### 雲端技術與工具 | Cloud Technologies & Tools
+**Cloud Technologies & Infrastructure | 雲端技術與基礎架構**  
+- AWS Services: Greengrass, EC2, S3, IOTCore
+- Cloudflare: WARP, Network Penetration, Tunnel Setup, Network Manager
+- Containerization: Docker
+- Infrastructure as Code: Terraform
 
-AWS Greengrass, AWS EC2, AWS S3, Cloudflare, Docker, Terraform
+**System Administration & Network Management | 系統管理與網路管理**  
+- Server Administration: Linux/Unix system management, service configuration, and maintenance
+- Network Management: Network design, configuration, monitoring, and troubleshooting
 
-## 📫 聯絡我 | Contact Me
+**Development Tools & Practices | 開發工具與實務**  
+- Version Control: Git
+- CI/CD Pipelines
+- Agile Development Methodologies
+- System Architecture Design
+- Performance Optimization
 
-📧 albert@mail.jw-albert.tw
+### Specialized Experience | 專業領域經驗
 
-🌐 個人網站｜Personal Website: https://www.jw-albert.tw/
+- **Edge Computing Development** | 邊緣運算開發  
+  Experience in developing and deploying edge computing solutions
+
+- **Sensor Integration** | 感測器整合  
+  Skilled in sensor package development using NiDAQ with Python and C++
+
+- **Information Security** | 資訊安全  
+  Knowledgeable in network security measures and best practices
+
+- **Prognostic and Health Management (PHM) | 故障預測與健康管理**  
+  Experienced in developing PHM systems for predictive maintenance and fault prediction, including health monitoring solutions for industrial equipment (acquired at imCloud)
+
+- **Project Experience** | 專案經驗  
+  Participated in various development projects including anomaly detection systems and web platform development
+
+### Interests & Hobbies | 興趣與愛好
+
+- **Amateur Radio** | 業餘無線電  
+  Licensed operator with experience using Motorola P6600 、 P6620 and SL2M
+
+- **Photography** | 攝影  
+  Photography enthusiast with an interest in Sony A7CII
+
+## Contact | 聯絡方式
+
+**Email | 電子郵件**  
+albert@mail.jw-albert.tw
+
+**Personal Website | 個人網站**  
+https://www.jw-albert.tw/
 
 ---
 
-讓我們一起創造令人驚豔的作品吧！🚀 | Let's create something amazing together! 🚀
+*Open to collaboration and new opportunities | 歡迎合作與新的機會*
