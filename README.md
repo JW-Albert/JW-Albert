@@ -74,8 +74,9 @@ albert@mail.jw-albert.tw
 **Personal Website | 個人網站**  
 https://www.jw-albert.tw/
 
-**LinkIN**
-www.linkedin.com/in/jw-albert
+**LinkedIn**
+https://www.linkedin.com/in/jw-albert/
+
 ---
 
 *Open to collaboration and new opportunities | 歡迎合作與新的機會*
