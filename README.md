@@ -74,7 +74,7 @@ albert@mail.jw-albert.tw
 **Personal Website | 個人網站**  
 https://www.jw-albert.tw/
 
-**LinkedIn**
+**LinkedIn**  
 https://www.linkedin.com/in/jw-albert/
 
 ---
