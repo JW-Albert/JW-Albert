@@ -17,6 +17,7 @@
 
 > 🎓 **Feng Chia University, Information Engineering** | 逢甲大學 資訊工程學系  
 > 💼 Backend System Engineer @ imCloud (FCU IMS Lab) | 機智雲股份有限公司 後端系統工程師  
+> 🔜 Incoming Intern @ ARDENTEC — Test Technology Dept. | 即將加入欣銓科技 測試技術部企業實習  
 > 🌏 Based in Taichung, Taiwan | 位於台灣台中
 
 I'm a software developer passionate about **backend engineering**, **cloud infrastructure**, and **industrial IoT systems**. Currently building PHM (Prognostic and Health Management) solutions for predictive maintenance in manufacturing.
@@ -33,10 +34,20 @@ I'm a software developer passionate about **backend engineering**, **cloud infra
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries | 框架與函式庫
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Cloud & Infrastructure | 雲端與基礎架構
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -44,10 +55,17 @@ I'm a software developer passionate about **backend engineering**, **cloud infra
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### Databases | 資料庫
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### IoT & Embedded | 物聯網與嵌入式
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-1A4D8F?style=flat-square)
+![NI-DAQmx](https://img.shields.io/badge/NI--DAQmx-FFD200?style=flat-square)
 
 ### Tools & Practices | 開發工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -58,6 +76,18 @@ I'm a software developer passionate about **backend engineering**, **cloud infra
 ## Experience | 工作經歷
 
 <table>
+<tr>
+<td>
+
+**Corporate Intern** | 企業實習生  
+🏢 ARDENTEC Corporation · Test Technology Dept. | 欣銓科技股份有限公司 測試技術部  
+📅 From Sep 2026 · 🔜 Incoming | 2026/09/07 ~
+
+- Incoming intern in the **Test Technology Department**, focusing on semiconductor (wafer / IC) testing | 測試技術部企業實習生，專注於半導體（晶圓 / IC）測試領域
+- **ARDENTEC** is one of Taiwan's leading professional semiconductor test service providers | 欣銓科技為台灣領先的專業半導體測試服務廠商
+
+</td>
+</tr>
 <tr>
 <td>
 
@@ -85,6 +115,7 @@ I'm a software developer passionate about **backend engineering**, **cloud infra
 | 🔌 **Edge Computing** | Developing and deploying edge computing solutions 邊緣運算解決方案開發與部署 |
 | 🔒 **Network Security** | Network security measures, monitoring, and best practices 網路安全措施、監控與最佳實踐 |
 | 📡 **Sensor Integration** | NiDAQ sensor packages with Python & C++ NiDAQ 感測器整合開發 |
+| 🤖 **AI / Agentic Tooling** | Building MCP (Model Context Protocol) servers & agentic automation 建構 MCP 伺服器與代理式自動化工具 |
 
 ---
 
