@@ -2,7 +2,7 @@
 
 # Hi, I'm Albert Wang 👋 | 嗨，我是王建葦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+後端工程師;Full-Stack+Developer+%7C+全端開發者;Cloud+%26+Edge+Computing+%7C+雲端與邊緣運算;Always+Learning+%7C+持續學習中" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Developer;Cloud+%26+Edge+Computing;Always+Learning..." alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JW-Albert&color=3B82F6&style=flat-square)](https://github.com/JW-Albert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JW--Albert-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jw-albert/)
