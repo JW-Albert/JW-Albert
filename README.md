@@ -17,8 +17,9 @@
 
 > 🎓 **Feng Chia University, Information Engineering** | 逢甲大學 資訊工程學系  
 > 💼 Backend System Engineer @ imCloud (FCU IMS Lab) | 機智雲股份有限公司 後端系統工程師  
-> 🔜 Incoming Intern @ ARDENTEC — Test Technology Dept. | 即將加入欣銓科技 測試技術部企業實習  
+> 🔜 Intern @ ARDENTEC — Test Technology Dept. | 欣銓科技股份有限公司 測試技術部企業實習  
 > 🌏 Based in Taichung, Taiwan | 位於台灣台中
+> Work in Hukou, Hsinchu County | 工作於台灣湖口
 
 I'm a software developer passionate about **backend engineering**, **cloud infrastructure**, and **industrial IoT systems**. Currently building PHM (Prognostic and Health Management) solutions for predictive maintenance in manufacturing.
 
@@ -81,7 +82,7 @@ I'm a software developer passionate about **backend engineering**, **cloud infra
 
 **Corporate Intern** | 企業實習生  
 🏢 ARDENTEC Corporation · Test Technology Dept. | 欣銓科技股份有限公司 測試技術部  
-📅 From Sep 2026 · 🔜 Incoming | 2026/09/07 ~
+📅 From Sep 2026 | 2026/09/07 ~
 
 - Incoming intern in the **Test Technology Department**, focusing on semiconductor (wafer / IC) testing | 測試技術部企業實習生，專注於半導體（晶圓 / IC）測試領域
 - **ARDENTEC** is one of Taiwan's leading professional semiconductor test service providers | 欣銓科技為台灣領先的專業半導體測試服務廠商
